@@ -2,7 +2,9 @@
 
 random company-wise solved problems
 
-Must-have links:
+___
+
+**Must-have links**:
 
 [1]: backtracking - [CS 106x: Programming Abstractions (Accelerated), Autumn 2017](https://www.youtube.com/watch?v=386pe6iyIVw)
 
